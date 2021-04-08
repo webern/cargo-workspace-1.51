@@ -1,0 +1,4 @@
+# build dir
+**/target/
+# my ide
+**/.idea
