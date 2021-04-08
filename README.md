@@ -44,3 +44,7 @@ rustup default 1.51.0
 cargo build --manifest-path ./ws/Cargo.toml --package dep_1
 ```
 
+## Question
+
+Is this behavior change intended?
+Can I rely on this behavior in my build?
